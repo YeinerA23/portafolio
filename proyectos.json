@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "titulo": "Bootcamp Programación Nivel Básico",
+    "categoria": "Programación",
+    "entidad": "Ministerio TIC, Universidad de Antioquia y Universidad de Caldas",
+    "horas": 159,
+    "anio": 2025,
+    "descripcion": "Formación intensiva en fundamentos de programación y lógica para el desarrollo de software."
+  },
+  {
+    "id": 2,
+    "titulo": "Curso Generación IA",
+    "categoria": "Inteligencia Artificial",
+    "entidad": "Eidos Global & Microsoft",
+    "horas": 12,
+    "anio": 2025,
+    "descripcion": "Introducción al uso de herramientas de inteligencia artificial generativa.",
+    "certificado": "certificados/generacion-ia.pdf"
+  },
+  {
+    "id": 3,
+    "titulo": "Instalación de Redes de Fibra Óptica",
+    "categoria": "Redes",
+    "entidad": "Instituto Técnico RENTIC",
+    "horas": 20,
+    "anio": 2025,
+    "descripcion": "Curso básico sobre instalación de redes de fibra óptica.",
+    "certificado": "certificados/fibra-optica.pdf"
+  },
+  {
+    "id": 4,
+    "titulo": "Técnico en Mantenimiento de Equipos de Cómputo",
+    "categoria": "Hardware",
+    "entidad": "SENA – Servicio Nacional de Aprendizaje",
+    "horas": null,
+    "anio": null,
+    "descripcion": "Formación técnica en mantenimiento preventivo y correctivo de equipos de cómputo."
+  }
+]
+
